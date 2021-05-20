@@ -8,5 +8,5 @@ Due to some error in rendering on github, you may not be able to view the notebo
 https://nbviewer.jupyter.org/
 
 #### Repository contains the following:
-1. [Workbook] for creating the original income classifcation tree.(https://github.com/WeiHanLer/Tree-Cardinality-Article/blob/main/Income%20Classification%20Tree.ipynb)
+1. [Workbook](https://github.com/WeiHanLer/Tree-Cardinality-Article/blob/main/Income%20Classification%20Tree.ipynb) for creating the original income classifcation tree.
 2. 
